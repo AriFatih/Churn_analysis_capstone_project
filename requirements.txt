@@ -1,0 +1,3 @@
+﻿sklearn==0.0
+streamlit==1.10.0
+xgboost==1.6.1
