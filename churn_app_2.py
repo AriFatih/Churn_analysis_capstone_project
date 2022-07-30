@@ -83,6 +83,10 @@ else:
 st.text("             ")
 st.text("             ")
 st.text("             ")
+st.text("             ")
+st.text("             ")
+st.text("             ")
+
 
 
 # SECOND PART:
